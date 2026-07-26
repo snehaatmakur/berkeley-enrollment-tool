@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+
+# Python environments and caches
+venv/
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+*.sqlite3
+
+# Mac OS files
+.DS_Store
